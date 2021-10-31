@@ -29,3 +29,5 @@ We compute and store the sum of the elements of the whole array, i.e. the sum of
 
 We can say, that these segments form a binary tree: the root of this tree is the segment a[0…n−1]
 , and each vertex (except leaf vertices) has exactly two child vertices. This is why the data structure is called "Segment Tree", even though in most implementations the tree is not constructed explicitly
+
+NOT TODAY!!
